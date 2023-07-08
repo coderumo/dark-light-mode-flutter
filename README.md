@@ -1,4 +1,4 @@
-# weather_app
+# dark_light_mode
 
 A new Flutter project.
 
