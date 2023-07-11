@@ -1,6 +1,5 @@
-# dark_light_mode
+# weather app with flutter
 
-A new Flutter project.
 
 ## Getting Started
 
